@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-From the tutorial
+Hi humans!
+
+GMHwebdesign here, I like PHP and jQuery!
